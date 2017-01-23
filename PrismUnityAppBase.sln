@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26020.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismUnityAppBase", "PrismUnityAppBase\PrismUnityAppBase\PrismUnityAppBase.csproj", "{9CD18622-F16F-4FCA-BC19-DB9FE7CA020A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismUnityAppBase.Droid", "PrismUnityAppBase\PrismUnityAppBase.Droid\PrismUnityAppBase.Droid.csproj", "{EC0E6A45-69FE-4ACA-B88F-138750E3C1A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CD18622-F16F-4FCA-BC19-DB9FE7CA020A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD18622-F16F-4FCA-BC19-DB9FE7CA020A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD18622-F16F-4FCA-BC19-DB9FE7CA020A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD18622-F16F-4FCA-BC19-DB9FE7CA020A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC0E6A45-69FE-4ACA-B88F-138750E3C1A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0E6A45-69FE-4ACA-B88F-138750E3C1A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0E6A45-69FE-4ACA-B88F-138750E3C1A3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EC0E6A45-69FE-4ACA-B88F-138750E3C1A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0E6A45-69FE-4ACA-B88F-138750E3C1A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC0E6A45-69FE-4ACA-B88F-138750E3C1A3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
